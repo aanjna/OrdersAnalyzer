@@ -1,0 +1,29 @@
+*.iws
+*.iml
+*.launch
+.externalToolBuilders/
+.DS_Store
+.idea/
+.nb-gradle/
+.project
+.settings/
+atlassian-ide-plugin.xml
+build/
+dist/
+nbactions.xml
+nbbuild/
+nbdist/
+nbproject/private/.classpath
+.factorypath
+.springBeans
+target/
+
+
+### Devskiller entries
+###
+### Please do not add anything below this line, your changes will be overwritten
+###
+__MACOSX/
+nbproject/private/
+.classpath
+target
